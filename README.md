@@ -10,4 +10,13 @@ Simple.css customization is defined in the partial `assets/css/simple-custom.css
 
 ## Installation
 
+```shell
+hugo new site quickstart
+cd quickstart
+git init
+git submodule add https://github.com/RyanBalfanz/hugo-simplecss.git themes/hugo-simplecss
+echo "theme = 'hugo-simplecss'" >> hugo.toml
+hugo server
+```
+
 ## Configuration
