@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Example Hugo Theme Site Using Simple.css'
-theme = 'Hugo-Theme-Simple'
+theme = 'hugo-simplecss'
 
 [[menus.main]]
 name = 'Home'
