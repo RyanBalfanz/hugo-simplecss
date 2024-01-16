@@ -1,2 +1,7 @@
-# hugo-simplecss
-A theme for Hugo using Simple.css
+# Theme Name
+
+## Features
+
+## Installation
+
+## Configuration
